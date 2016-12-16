@@ -1,4 +1,0 @@
-﻿  Application.cpp
-c:\users\aldo\documents\graficacion\plane\plane\src\application.cpp(47): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
-  Plane.vcxproj -> C:\Users\Aldo\Documents\Graficacion\x64\Debug\Plane.exe
-  Plane.vcxproj -> C:\Users\Aldo\Documents\Graficacion\x64\Debug\Plane.pdb (Partial PDB)
