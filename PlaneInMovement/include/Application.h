@@ -28,7 +28,6 @@ private:
 	float col = 0.007;
 
 	string sVertex, sFragment;
-	string strVertexShader, strFragmentShader;
 
 	Plane oPlane;
 	mat4 transformaciones;
